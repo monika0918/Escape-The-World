@@ -177,6 +177,10 @@ border: 1px solid #026670;
   margin: 0;
 }
 
+.list-group-item {
+  border: none;
+}
+
 /* Fixed Background Image */
 
 figure {
